@@ -1,7 +1,7 @@
 # GCP_ETL
 ## Overview
 This project implements a complete Extract, Transform, Load (ETL) pipeline on Google Cloud Platform. It generates synthetic employee data, processes it through various GCP services, and presents it for analysis in Google Looker.
-
+![Flow chart of project](ETL.jpg)
 ## Architecture
 The pipeline consists of the following components:
 1. **Data Generation**: Python script to create synthetic employee data
