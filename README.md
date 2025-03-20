@@ -35,5 +35,6 @@ The `fake_data_generation.py` script creates synthetic employee data in CSV form
 python fake_data_generation.py
 ```
 ## References:
+A special thanks to TechTrapture for their wonderful video tutorial:
 [1]TechTrapture, “Creating an ETL Data Pipeline on Google Cloud with Cloud Data Fusion & Airflow - Part 1,” YouTube, Feb. 23, 2024. https://www.youtube.com/watch?v=lMaZnZldxcE&list=PLLrA_pU9-Gz2DaQDcY5g9aYczmipBQ_Ek (accessed Mar. 20, 2025).
 ‌
